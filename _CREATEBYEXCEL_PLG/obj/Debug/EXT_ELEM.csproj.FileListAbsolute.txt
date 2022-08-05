@@ -1,0 +1,25 @@
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\ResolveAssemblyReference.cache
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\GenerateResource.read.1.tlog
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\GenerateResource.write.1.tlog
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.CreateControl.resources
+C:\Program Files\T-FLEX\T-FLEX CAD 12\Program\EXT_ELEM_Plugin.dll
+C:\Program Files\T-FLEX\T-FLEX CAD 12\Program\EXT_ELEM_Plugin.pdb
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.dll
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.pdb
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.ComParams.resources
+C:\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.EXT_Dialog.resources
+D:\T-FLEX\T-FLEX CAD 12 x64\Program\EXT_ELEM_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 12 x64\Program\EXT_ELEM_Plugin.pdb
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.csprojResolveAssemblyReference.cache
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.EXT_Dialog.resources
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.ComParams.resources
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.CreateControl.resources
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM.csproj.GenerateResource.Cache
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.dll
+F:\__2014-05-07\РАБОТА 12\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.pdb
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM.EXT_Dialog.resources
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM.ComParams.resources
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM.CreateControl.resources
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM.csproj.GenerateResource.Cache
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.pdb
+D:\_Временные\Выносной Элемент\obj\Debug\EXT_ELEM_Plugin.dll

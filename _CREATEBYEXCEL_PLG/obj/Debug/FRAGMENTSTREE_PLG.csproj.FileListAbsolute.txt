@@ -1,0 +1,48 @@
+D:\T-FLEX\T-FLEX CAD 16\Program\FRAGMENTSTREE_PLG.dll
+D:\T-FLEX\T-FLEX CAD 16\Program\FRAGMENTSTREE_PLG.pdb
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.csprojResolveAssemblyReference.cache
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.Form4.resources
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.Cache
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.dll
+D:\_Временные\_Grid-Tree\obj\Debug\FRAGMENTSTREE_PLG.pdb
+D:\_Временные\___УралАЗ\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+D:\_Временные\___УралАЗ\obj\Debug\FRAGMENTSTREE_PLG.Form4.resources
+D:\_Временные\___УралАЗ\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.Cache
+D:\_Временные\___УралАЗ\obj\Debug\FRAGMENTSTREE_PLG.dll
+D:\_Временные\___УралАЗ\obj\Debug\FRAGMENTSTREE_PLG.pdb
+D:\_Временные\_ВЕЗА\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+D:\_Временные\_ВЕЗА\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.Cache
+D:\T-FLEX\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.dll
+D:\T-FLEX\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.pdb
+D:\_Временные\_ВЕЗА\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.dll
+D:\_Временные\_ВЕЗА\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.cache
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.CoreCompileInputs.cache
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\T-FLEX\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Users\T-FLEX\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Program Files\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Program Files\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.Properties.Resources.resources
+C:\Users\litvinov.ls\Downloads\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.AssemblyReference.cache
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.Properties.Resources.resources
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.cache
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.CoreCompileInputs.cache
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\Program Files\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Users\Program Files\T-FLEX CAD 17\Program\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.CopyComplete
+C:\Users\litvinov.ls\Documents\_C#\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.AssemblyReference.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.AssemblyReference.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.ComParams.resources
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.Properties.Resources.resources
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.GenerateResource.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.CoreCompileInputs.cache
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.dll
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_VEZA_PLG.pdb
+C:\Users\litvinov.ls\Documents\_GitHub\EducationLitvinov\___Пример Структура фрагментов\obj\Debug\FRAGMENTSTREE_PLG.csproj.CopyComplete

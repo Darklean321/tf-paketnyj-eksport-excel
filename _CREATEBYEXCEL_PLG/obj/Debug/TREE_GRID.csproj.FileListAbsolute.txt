@@ -1,0 +1,15 @@
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\TREE_GRID_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\TREE_GRID_Plugin.pdb
+D:\_Временные\_Максимов\_Grid-Tree\obj\Debug\TREE_GRID.ComParams.resources
+D:\_Временные\_Максимов\_Grid-Tree\obj\Debug\TREE_GRID.Form4.resources
+D:\_Временные\_Максимов\_Grid-Tree\obj\Debug\TREE_GRID.csproj.GenerateResource.Cache
+D:\_Временные\_Максимов\_Grid-Tree\obj\Debug\TREE_GRID_Plugin.dll
+D:\_Временные\_Максимов\_Grid-Tree\obj\Debug\TREE_GRID_Plugin.pdb
+D:\T-FLEX\T-FLEX CAD 15 x64\Program\TREE_GRID_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 15 x64\Program\TREE_GRID_Plugin.pdb
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID.csprojResolveAssemblyReference.cache
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID.ComParams.resources
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID.Form4.resources
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID.csproj.GenerateResource.Cache
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID_Plugin.dll
+D:\_Временные\_Grid-Tree\obj\Debug\TREE_GRID_Plugin.pdb

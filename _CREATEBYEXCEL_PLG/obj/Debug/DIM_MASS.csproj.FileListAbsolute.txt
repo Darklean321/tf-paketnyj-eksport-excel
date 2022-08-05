@@ -1,0 +1,33 @@
+D:\T-FLEX\T-FLEX CAD 12 x64\Program\DIM_MASS_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 12 x64\Program\DIM_MASS_Plugin.pdb
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS.EXT_Dialog.resources
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS.ComParams.resources
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS.CreateControl.resources
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS.csproj.GenerateResource.Cache
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS_Plugin.dll
+D:\_Временные\Выносной Элемент\obj\Debug\DIM_MASS_Plugin.pdb
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS.EXT_Dialog.resources
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS.ComParams.resources
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS.CreateControl.resources
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS.csproj.GenerateResource.Cache
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS_Plugin.dll
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS_Plugin.pdb
+D:\_Временные\Размер для массива\obj\Debug\DIM_MASS.csprojResolveAssemblyReference.cache
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\DIM_MASS-TSM_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\DIM_MASS-TSM_Plugin.pdb
+D:\_Временные\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.dll
+D:\_Временные\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.pdb
+D:\_Временные\Размер для массива ТСМ\obj\Debug\DIM_MASS.ComParams.resources
+D:\_Временные\Размер для массива ТСМ\obj\Debug\DIM_MASS.csproj.GenerateResource.Cache
+D:\_Временные\T-FLEX\T-FLEX CAD 15 x64\Program\DIM_MASS-TSM_Plugin.dll
+D:\_Временные\T-FLEX\T-FLEX CAD 15 x64\Program\DIM_MASS-TSM_Plugin.pdb
+D:\_Временные\_15\Размер для массива ТСМ\obj\Debug\DIM_MASS.ComParams.resources
+D:\_Временные\_15\Размер для массива ТСМ\obj\Debug\DIM_MASS.csproj.GenerateResource.Cache
+D:\_Временные\_15\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.dll
+D:\_Временные\_15\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.pdb
+D:\T-FLEX\T-FLEX CAD 15 x64\Program\DIM_MASS-TSM_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 15 x64\Program\DIM_MASS-TSM_Plugin.pdb
+D:\_Временные\_14-2\Размер для массива ТСМ\obj\Debug\DIM_MASS.ComParams.resources
+D:\_Временные\_14-2\Размер для массива ТСМ\obj\Debug\DIM_MASS.csproj.GenerateResource.Cache
+D:\_Временные\_14-2\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.dll
+D:\_Временные\_14-2\Размер для массива ТСМ\obj\Debug\DIM_MASS-TSM_Plugin.pdb

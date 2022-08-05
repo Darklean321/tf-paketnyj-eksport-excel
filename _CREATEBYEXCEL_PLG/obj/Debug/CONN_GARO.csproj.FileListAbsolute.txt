@@ -1,0 +1,7 @@
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\CONN_GARO_Plugin.dll
+D:\T-FLEX\T-FLEX CAD 14 x64\Program\CONN_GARO_Plugin.pdb
+D:\_Временные\_14\__Коннектор ГАРО\obj\Debug\CONN_GARO.ComParams.resources
+D:\_Временные\_14\__Коннектор ГАРО\obj\Debug\CONN_GARO.csproj.GenerateResource.Cache
+D:\_Временные\_14\__Коннектор ГАРО\obj\Debug\CONN_GARO_Plugin.dll
+D:\_Временные\_14\__Коннектор ГАРО\obj\Debug\CONN_GARO_Plugin.pdb
+D:\_Временные\_14\__Коннектор ГАРО\obj\Debug\CONN_GARO.Form4.resources
